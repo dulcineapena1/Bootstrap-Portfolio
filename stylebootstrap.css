@@ -1,0 +1,279 @@
+.navclass{
+    margin: auto;
+}
+
+.bg-light {
+    background-color: white;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light
+{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+    border-width: 4px;
+    border-bottom-style: outset;
+    border-color: #dddddd;
+    padding: 0;
+}
+
+.navbar-brand {
+    width: 323px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: white;
+    font-weight: bold;
+    font-size: 36px;
+    height: 111px;
+    margin-top: 1;
+    padding-top: 35px;
+    
+    margin-right: 0;
+    
+    margin-right: 23%;;
+}
+
+
+.nav.justify-content-end
+{
+    display: -webkit-inline-box;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-item{
+    padding-right: 41px;
+}
+
+.nav-link{
+    color: #777777;
+}
+
+
+
+.primrow {
+    padding: 0;
+    margin: auto;
+    padding-top: 35px;
+    background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0134/9455/rrChristmas_Star_dots_red_on_white_shop_preview.png);
+    background-repeat: repeat;
+    height: 800px;
+}
+
+.bord{
+    border-width: 2px;
+    border-style: outset;
+    border-color: #dddddd;
+    padding-bottom: 66px;
+}
+
+.col-md-9.main.bordp{
+
+        border-width: 2px;
+        border-style: outset;
+        border-color: #dddddd;
+        padding-bottom: 66px;
+}
+
+.main
+{
+   background-color: white;
+    margin: auto;
+    margin-top: 0;
+}
+
+h1{
+    color: #4aaaa5;
+    font-size: 28px;
+    padding-top: 35px;
+    padding-left: 15px;
+    border-width: 1px;
+    border-bottom-style: outset;
+    border-color: #dddddd;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+hr{
+    display: block;
+    unicode-bidi: isolate;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.secondrow{
+    background-color: white;
+}
+
+.col-md-12.main
+{
+    width: 100%;
+    background-color: white;
+}
+
+.me{
+    width: 100%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 13px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-md-9{
+    float: right;
+ 
+}
+
+.col-md-9 p{
+    display: block;
+    padding-top: 32px;
+    color: #777777;
+}
+
+
+.col-md-12 p
+{
+    color: #777777;
+    
+}
+
+.thirdrow{
+    width:100%;
+
+}
+
+.row.thirdrow .col-md-12{
+    width: 100%;
+    float: left;
+}
+
+.col-md-12 .col-md-3{
+    float: left;
+}
+
+footer{
+    background-color: #666666;
+    height: 50px;
+    border: 4px;
+    border-top-style: outset;
+    border-color: #4aaaa5;
+    border-width: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.pfooter{
+    margin: auto;
+    margin: 0, auto;
+    text-align: center;
+    padding-top: 15px;
+    color: #ffffff;
+}
+
+a:hover {
+    color:grey;
+}
+
+
+
+
+
+
+
+.projectimg {
+    background-image: url(p3.jpg);
+    background-size: 100%;
+}
+
+.brandingimg {
+    background-image: url(p2.jpg);
+    background-size: 100%;
+}
+
+.photoimg{
+    background-image: url(p1.jpg);
+    background-size: 124%;
+    background-repeat: no-repeat;
+}
+
+.ilusimg{
+        background-image: url(p4.jpg);
+        background-size: 100%;
+}
+
+
+.edimg{
+    background-image: url(p5.jpg);
+    background-size: 100%;
+}
+
+.card:hover{
+    opacity: 0.5;
+}
+
+.card.text-white.bg-primary.mb-3
+{
+    max-width: 18rem;
+    height: 161px;
+    border-style: none;
+}
+
+    
+.linkport{
+    color: black;
+    display: block;
+    background-color: #4aaaa5;
+    margin: auto;
+    color: white;
+    height: 47px;
+    padding-top: 10px;
+    vertical-align: center;
+    top: 85px;
+    position: relative;
+    text-align: center;
+}
+
+.card-body{
+    padding: 0;
+}
+
+.btn.btn-primary.btn-lg {
+    width: 90px;
+    background-color: #4aaaa5;
+    border: none;
+    padding: 14px;
+
+}
+
+form {
+    font-family: serif;
+    color: grey;
+}
+.bg-light {
+    background-color: #ffffff;
+}
+
+.colorfondo{
+    background-color: white;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light.colorfondo{
+    background-color: #dddddd;
+}
+
+.linkport:hover{
+    background-color:grey;
+    color:white;
+    text-decoration: none;
+}
